@@ -1,3 +1,3 @@
 # API_project
 
-public_site: https://first-react-project-music.netlify.app
+public_site: https://api-project-version-2.netlify.app
